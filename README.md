@@ -52,14 +52,7 @@ source .venv/bin/activate
 uv run main.py "create a readme.md file and write 'calculator' in it"
 ```
 
-## 🎨 Make it cooler for GitHub
 
-- Add a project logo or badge at the top.
-- Add usage examples and expected output.
-- Add a short quick-start code block.
-- Keep the README short, clear, and with section headers.
-
----
 
 ### Project structure
 
